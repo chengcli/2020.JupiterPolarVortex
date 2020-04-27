@@ -1,12 +1,14 @@
 ### Folder structure
 
-> data/
->  grassi_spc.csv (velocity profile of south polar cyclone)
->  grassi_npc.csv *velocity profile of north polar cyclone*
->
-> figs/
->  grassi_velocity_fitting.[png/eps] *fitting to Grassi's observation* 
-> plot_grassi.py *code to make grassi_velocity_fitting*
+~~~
+ data/
+  grassi_spc.csv # velocity profile of south polar cyclone
+  grassi_npc.csv # velocity profile of north polar cyclone
+
+ figs/
+  grassi_velocity_fitting.[png/eps] # fitting to Grassi's observation
+  plot_grassi.py # code to make grassi_velocity_fitting
+~~~
 
 ### Comments
 Grassi's observation of the polar cyclones are presented in
